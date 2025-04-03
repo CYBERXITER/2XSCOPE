@@ -1,0 +1,4 @@
+{
+  "search": "71 02 87 bd 90 fd d7 ba 40 18 98 39",
+  "replace": "cd dc 79 44 90 fd d7 ba 40 18 98 39"
+}
